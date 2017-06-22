@@ -1,5 +1,5 @@
 {
-  "name": "fake-user-agent",
+  "name": "fake-useragent",
   "version": "1.0.0",
   "description": "generate a fake userAgent for bypass guys",
   "main": "index.js",
